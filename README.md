@@ -1,0 +1,1 @@
+The game will ask you for names and bets. It requires at least two players. Once you have entered in at least two names and their corresponding bets, press enter again and the game will start. The rest is explained in-game, and is hopefully straightforward enough.
